@@ -1,5 +1,11 @@
 package solutions;
-
+/**
+ * 
+ * Finds sum of even fibonacci numbers under 4 million
+ * 
+ * @author Aditya Durvasula
+ *
+ */
 public class Problem2 {
 	static int sum = 0;
 	

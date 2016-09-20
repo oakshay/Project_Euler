@@ -1,6 +1,13 @@
 package solutions;
 
-public class Problem3 {
+/**
+ * 
+ * Finds largest prime factor of 600851475143
+ * 
+ * @author Aditya Durvasula
+ *
+ */
+class Problem3 {
 	public static void main(String args[]) {
 		long num = 600851475143L;
 		System.out.println(getLargestPrimeFactor(num));

@@ -1,5 +1,11 @@
 package solutions;
-
+/**
+ * 
+ * Finds sum of numbers divisible by 3 and 5 under 1000
+ * 
+ * @author Aditya Durvasula
+ *
+ */
 public class Problem1 {
 	public static void main(String args[]) {
 		int sum = 0;
