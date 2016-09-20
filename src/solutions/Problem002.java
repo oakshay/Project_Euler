@@ -7,7 +7,7 @@ package solutions;
  * @author Aditya Durvasula
  *
  */
-public class Problem2 {
+public class Problem002 {
 	static int sum = 0;
 	
 	public static void main(String args[]) {

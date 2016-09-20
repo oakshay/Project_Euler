@@ -7,7 +7,7 @@ package solutions;
  * @author Aditya Durvasula
  *
  */
-class Problem3 {
+class Problem003 {
 	public static void main(String args[]) {
 		long num = 600851475143L;
 		System.out.println(getLargestPrimeFactor(num));

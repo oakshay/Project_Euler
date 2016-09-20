@@ -7,7 +7,7 @@ package solutions;
  * @author Aditya Durvasula
  *
  */
-public class Problem9 {
+public class Problem009 {
 	public static void main(String args[]) {
 		for(int i = 100; i < 1000; i++) {
 			for(int j = 101; j < 1000; j++) {

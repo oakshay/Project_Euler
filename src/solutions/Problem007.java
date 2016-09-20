@@ -8,7 +8,7 @@ package solutions;
  * @author Aditya Durvasula
  *
  */
-public class Problem7 {
+public class Problem007 {
 	static long[] primes = new long[10001];
 	static int currentIndex = 0;
 	

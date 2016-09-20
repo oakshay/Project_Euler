@@ -7,7 +7,7 @@ package solutions;
  * @author Aditya Durvasula
  *
  */
-public class Problem4 {
+public class Problem004 {
 	public static void main(String args[]) {
 		int max = 0;
 		for(int i = 100; i < 1000; i++) {

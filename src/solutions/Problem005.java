@@ -8,7 +8,7 @@ package solutions;
  * @author Aditya Durvasula
  *
  */
-public class Problem5 {
+public class Problem005 {
 	public static void main(String args[]) {
 		long cur = 1;
 		for(int i = 1; i <= 20; i++) {
