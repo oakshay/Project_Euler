@@ -2,6 +2,7 @@ package solutions;
 /**
  * 
  * Finds sum of even fibonacci numbers under 4 million
+ * Uses dynamic programming based recursion to keep track of needed fibonacci
  * 
  * @author Aditya Durvasula
  *

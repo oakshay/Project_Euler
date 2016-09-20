@@ -3,6 +3,7 @@ package solutions;
 /**
  * 
  * Finds smallest number divisible by all integers from 1 to 20
+ * Much faster than brute force search
  * 
  * @author Aditya Durvasula
  *

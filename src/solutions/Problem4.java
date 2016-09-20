@@ -2,7 +2,7 @@ package solutions;
 
 /**
  * 
- * Finds largest palindrom that is product of two 3 digit numbers
+ * Finds largest palindrome that is product of two 3 digit numbers
  * 
  * @author Aditya Durvasula
  *
